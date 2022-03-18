@@ -3,7 +3,7 @@
 <h3 align="center">Mobile App criado no desafio do treinamento do Hackathon-Decola Luna</3>
 
 <p align="center">Este projeto foi desenvolvido no treinamento do Hackathon, realizado pela empresa Iteris.</p>
-<p align="center"><a href="#tecnologias">Tecnologias</a> | <a href="#instalacao">Intalação</a> |<a href="#status">Status</a></p>
+<p align="center"><a href="#tecnologias">Tecnologias</a> | <a href="#instalacao">Instalação</a> |<a href="#status">Status</a></p>
 
 ---
 
